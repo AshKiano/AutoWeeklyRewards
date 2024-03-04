@@ -1,0 +1,5 @@
+name: AutoWeeklyRewards
+version: '${project.version}'
+main: com.ashkiano.autoweeklyrewards.AutoWeeklyRewards
+api-version: '1.16'
+authors: [ AshKiano ]
